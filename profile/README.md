@@ -1,6 +1,8 @@
 # [LunarPixel](https://lunarpixelgames.github.io/home/)
 
-Welcome to LunarPixel! This is a solo indie game development studio focused on building fun, polished games with tight mechanics, satisfying challenges, and great soundtracks. 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LunarPixelGames)
+
+Welcome to LunarPixel! This is a solo indie game development studio focused on building fun, polished games.
 
 ---
 
