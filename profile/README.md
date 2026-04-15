@@ -28,4 +28,4 @@ All LunarPixel games are built from the ground up using code-first frameworks.
 ### Where to find me
 
 * **Games & Web Builds:** [Itch.io](https://samispoggers.itch.io/)
-* **Mobile Releases:** [Google Play Developer Page](https://play.google.com/store/apps/developer?id=5960188307627038174)
+* **Mobile Releases:** [Google Play Developer Page](https://play.google.com/store/apps/dev?id=5960188307627038174)
